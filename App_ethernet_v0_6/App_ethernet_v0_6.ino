@@ -15,7 +15,6 @@ Ligar por 5 minutos, de hora em hora, por exemplo
 */
 
 
-//Modulo timer ligado as portas a4 e a5
 //DS1307 rtc(A4, A5);
 RTC_DS1307 RTC;
 
